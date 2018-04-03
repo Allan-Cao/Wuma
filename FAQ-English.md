@@ -1,39 +1,41 @@
-# The purpose of Wuma VPN : Free, Fair, Stable and it can be used for everyone
+# Wuma VPN : Free, Fair, Stable usable by everyone
 
 
-> Q1. Why some region can not visit Youtube or other video websites? 
+> Q1. Why can't YouTube and other network intensive tasks be done on some servers/regions?
 
-Playing video and downloading resources will produce a lot of traffic， it will slow down the network speed of other users at the same region, it is not fair to others. If you really need it, don't worry. We also provide some Video dedicated VPN region (You will find them at the second VPN region group). Thisregions based on CDN Technologies and they are good to play video. You'd better set the video to 480P while playing, or we will disable your device since you consume high bandwith resources for long time.
+Playing videos and downloading files will produce a lot of network traffic slowing down the network speed of other users connected to the same region, This is not fair for other users connected. If you do want to use these services, don't worry! We also provide some Video dedicated VPN regions. You will find them at the second VPN region group. These regions are based on CDN technologies which allow you to use these services. Please set the video quality to 480P if you intend to use our service for an extended time. Not doing this may result in your device being removed from the network.
+
  
- 
-> Q2. Why VPN service will automatically disconnect every 30 minutes?
+> Q2. Why does the VPN service automatically disconnect every 30 minutes?
 
- The performance of the VPN server is limited， the number of connections is also limited. Long time and a large number of connections will increase the pressure of the VPN server and may cause the server to crash ( It is also a reason for the instability of other VPN products ). So we design Wuma VPN to disconnect automatically every 30 minutes that release connection for other users. If you need it at the time, you can turn it on manually again in Wuma.
+The number of connections and performance of the VPN servers are limited so a large number of connections may result in the server crashing. This is a flaw in many other VPN services we realize so we designed Wuma VPN to automatically disconnect users after 30 minutes releasing the load on the server and allowing for other users to connect. If you want to use it after being disconnected, you just need to go back to Wuma VPN app and connect.
 
 > Q3:Is Wuma VPN free and safe?
 
-it's 100% free(no money or credit card needed) unlimited data and time, but P2P orBittorrent is not allowed. Also, Wuma VPN canprotect your Wifi hotspot security and privacy. It will never steal any users information
+Wuma VPN is 100% free requiring no money or credit card. You have unlimited time and bandwidth solong as P2P and Bittorrent services are not used. Wuma VPN can help protect your internet security and privacy. We will never steal any users information!
 
->Q4: Why can't Wuma VPN connect?
+>Q4: Help! Wuma VPN isn't connecting!
 
-There may be some reasons
-(1) If it shows Network Unavailable, it means the network is not stable, you should ensure your mobile phone is connected to the internet
-(2)please try another one, it means current server is busy or blocked in your region. You can select another
-server, or try again
-(3)If it shows No servers avaliable now, please restar mobile phone or update the APP, you need to update Wuma VPN to
-the latest version
-(4)If all the above does not work, you can uninstall Wuma VPN, and re-install it. Usually it will work well
+Here are some possible reasons:
+(1) If it shows "Network Unavailable", it means that your network is not stable or not available.
+Solution:
+Ensure your mobile phone has a stable network connection.
+(2) If it shows "Please try another one", it means that the server you choose is either busy or blocked in your region. 
+Solution: 
+You can select another server, or try again at a later time.
+(3) If it shows "No servers avaliable now", it could be that the Wuma VPN is not up to date on your phone or the app needs to restart.
+Solution:
+Restart your mobile phone and/or update the app.
+(4) If your error/problem is not listed or the solution provided doesn't work, a last resort can be to uninstall and reinstall the app.
 
-> Q5: What to do if the connection is unstable or slow?
+> Q5: What should I do is the connection is unstable or slow?
 
-Please click the national flag at the left bottom of main panel in homepage. Then choose the fastest and most stable server, and reconnect The fastest server is usually in the region close to the country you are in. If all servers are not stable
-please contact us email
+Click the national flag at the left bottom of main panel in homepage and then choose the servicer with the lowest ping time. The server closest to the country you are in is usually the best. If all servers are not stable, please send us an email and try again later.
 
-> Q6: How to select IP, server or region you prefer?
+> Q6: How to select a server/region you prefer?
 
-Please click the national flag at the left bottom of main panel in homepage. Then choose IP, region or server you prefer and connect
+Please click the national flag at the left bottom of main panel in homepage. Then choose the region/server you prefer and connect to it.
 
-> Q7: don't use P2P or Bittorrent
+> Important notice:
 
-Please don't use Bittorrent with VPN, or your account will be blocked forever
-
+Do NOT use Bittorrent or P2P services with Wuma VPN, or your account will be blocked forever.
